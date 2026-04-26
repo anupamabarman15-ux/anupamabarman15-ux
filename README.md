@@ -1,15 +1,36 @@
-## Hi there 👋
+# Himadri Shekhar Barman
+## Data Analyst | Creative Developer
 
+---
 
-**anupamabarman15-ux/anupamabarman15-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📡 Profile
+Bridging the gap between **raw data** and **immersive entertainment**. I transform complex datasets into actionable insights for the gaming and media industry, while exploring the intersection of technical analysis and 2D environmental art.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### ⚡ Tech Stack & Creative Toolkit
+| Category | Tools |
+| :--- | :--- |
+| **Data Analysis** | Python (Pandas), MySQL, Power BI, Tableau |
+| **Creative/Art** | Clip Studio Paint |
+| **OS/Environment** | Windows 11  |
+
+---
+
+### 🎮 Featured Project: Gaming Habits & Sleep Quality
+*The Entertainment sector is driven by user behavior. This project explores the correlation between gaming platform preferences and lifestyle metrics.*
+
+* **Objective:** Analyze user behavior trends to improve engagement strategies.
+* **Tech Used:** MySQL (complex joins, cleaning), Tableau (visualization).
+* **Key Insight:** [e.g., "Identified a shift in player engagement patterns between mobile and PC demographics."]
+* **[View Dashboard/Project Analysis]**
+
+---
+
+### 🎨 Art & Animation
+*Currently iterating on 2D environments and animation principles. Check out my creative progress [Link to your Art Station/Portfolio/Instagram if applicable].*
+
+---
+
+### 📈 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
